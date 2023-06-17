@@ -6,7 +6,7 @@ const Ad = () => {
   return (
     <Container>
         <AdBg>
-            <VideoBg autoPlay loop muted src={Video} type='video/mp4'/>
+            <VideoBg autoPlay loop muted src={Video} type='video2/mp4'/>
         </AdBg>
 
         <Vidtext>
