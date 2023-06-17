@@ -8,10 +8,16 @@ export const AdBg=styled.div`
 position:relative;
 z-index:0;
 hight:100%;
+width:100%;
 top:0;
+right:0;
+bottom:0;
+left:0;
+overflow:hidden;
 `
 export const VideoBg=styled.video`
- 
+ -o-object-fit:cover;
+ object-fit:cover;
  width:100%;
  hight: 100%;
  padding-right:0;
