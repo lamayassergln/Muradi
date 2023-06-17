@@ -21,6 +21,7 @@ export const VideoBg=styled.video`
  width:100%;
  hight: 100%;
  padding-right:0;
+ background: #232a34;
 `
 export const Vidtext = styled.div`
 position:absolute;

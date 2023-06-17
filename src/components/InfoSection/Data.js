@@ -21,7 +21,7 @@ export const homeObjTwo={
     id:'Brands',
     lightBg:false,
     lightText:true,
-    lightTextDesc:false,
+    lightTextDesc:true,
     topLine:'Our Toy Brands',
     headline:'Unlimited New Trusted Toy Brands',
     description:'Get acces to our exclusive app that allow you to send unlimited transactions without getting charged any fees',
@@ -29,7 +29,7 @@ export const homeObjTwo={
     imgStart:true,
     img: require('../../images/svg-2.jpeg'),
     alt:'Piggybank',
-    dark:false,
+    dark:true,
     primary:true,
     darkText:false
 }
