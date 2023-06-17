@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Muradi/static/css/main.ce6cba96.css",
-    "main.js": "/Muradi/static/js/main.94a43552.js",
+    "main.js": "/Muradi/static/js/main.c5a5d666.js",
     "static/media/video.mp4": "/Muradi/static/media/video.bf5dcc0d0f81bffe2a98.mp4",
     "static/media/video2.mp4": "/Muradi/static/media/video2.4d8258b4a81397245c35.mp4",
     "static/media/png-1.jpeg": "/Muradi/static/media/png-1.7721f1dc0da7c3541a17.jpeg",
@@ -9,10 +9,10 @@
     "static/media/svg-3.jpeg": "/Muradi/static/media/svg-3.0524426f16ab296ec9db.jpeg",
     "index.html": "/Muradi/index.html",
     "main.ce6cba96.css.map": "/Muradi/static/css/main.ce6cba96.css.map",
-    "main.94a43552.js.map": "/Muradi/static/js/main.94a43552.js.map"
+    "main.c5a5d666.js.map": "/Muradi/static/js/main.c5a5d666.js.map"
   },
   "entrypoints": [
     "static/css/main.ce6cba96.css",
-    "static/js/main.94a43552.js"
+    "static/js/main.c5a5d666.js"
   ]
 }
